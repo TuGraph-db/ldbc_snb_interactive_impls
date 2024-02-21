@@ -86,6 +86,7 @@
                 <module>tigergraph</module>
                 <module>umbra</module>
                 <module>tugraph</module>
+                <module>lightgraph</module>
           </modules>
         </profile>
         <profile>
